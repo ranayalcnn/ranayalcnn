@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=180&section=header&text=Rana%20Yal%C3%A7%C4%B1n&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Computer%20Vision%20%26%20AI&descAlignY=56&descSize=18" alt="Rana Yalçın header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,18,20&height=150&section=header&animation=twinkling" alt="Animated header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Computer+Vision+%26+AI+Enthusiast;Building+Real-Time+Vision+Systems;Machine+Learning+%7C+Deep+Learning;Turning+Data+Into+Practical+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=900&color=C084FC&center=true&vCenter=true&repeat=true&random=false&width=760&height=55&lines=Software+Engineer+%7C+Computer+Vision+%26+AI;Building+Real-Time+Vision+Systems;Machine+Learning+%7C+Deep+Learning;Turning+Data+Into+Practical+Solutions" alt="Animated introduction" />
 </a>
 
 </div>
@@ -16,6 +16,14 @@
 - 🎥 Experienced with real-time video analytics and industrial visual inspection
 - ☁️ Working with Azure Linux environments, model benchmarking and deployment-oriented development
 - 📱 Developing mobile and web applications with Flutter, Dart and React
+
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=700&color=E879F9&center=true&vCenter=true&repeat=true&width=720&height=40&lines=%F0%9F%8C%B1+Currently+exploring+smarter+vision+systems...;%F0%9F%92%BB+Creating+with+Python%2C+OpenCV+and+YOLO...;%E2%9C%A8+Always+learning%2C+building+and+improving..." alt="Animated current focus" />
+</a>
+
+</div>
 
 ## Tech Stack
 
@@ -98,18 +106,13 @@ A modern web application project focused on shopping experiences.
 </tr>
 </table>
 
-## GitHub Analytics
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ranayalcnn&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=C084FC&icon_color=E879F9&text_color=A1A1AA" alt="Rana's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranayalcnn&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=C084FC&text_color=A1A1AA" alt="Rana's top languages" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=C084FC&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Thanks+for+visiting+my+profile+%E2%9C%A8;Let%27s+build+something+meaningful+%F0%9F%92%9C" alt="Animated closing message" />
+</a>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ranayalcnn&bg_color=transparent&color=C084FC&line=E879F9&point=FFFFFF&area=true&hide_border=true" alt="Rana's contribution graph" />
-
-</div>
-
-<div align="center">
+<br/>
 
 <a href="https://github.com/ranayalcnn">
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
@@ -121,4 +124,4 @@ A modern web application project focused on shopping experiences.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=100&section=footer" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=110&section=footer&animation=twinkling" alt="Animated footer" />
