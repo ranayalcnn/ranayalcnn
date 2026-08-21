@@ -101,10 +101,6 @@ A modern web application developed with React and JavaScript.
 
 <img src="https://komarev.com/ghpvc/?username=ranayalcnn&label=Profile%20Views&color=ec4899&style=flat-square" alt="Profile views" />
 
-<br/><br/>
 
-<i>Thanks for visiting my little corner of GitHub ♡</i>
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,18,12&height=110&section=footer" alt="Footer" />
