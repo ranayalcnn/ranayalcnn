@@ -1,12 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0764,45:BE185D,100:F9A8D4&height=210&section=header&text=Rana%20Yalçın&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineering%20%7C%20Computer%20Vision%20%7C%20Machine%20Learning&descSize=15&descAlignY=57&animation=fadeIn" alt="Rana Yalçın Header" />
-
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0764,45:BE185D,100:F9A8D4&height=210&section=header&text=Rana%20Yalçın&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineering%20%7C%20Computer%20Vision%20%7C%20Machine%20Learning&descSize=15&descAlignY=57&animation=fadeIn" alt="Rana Yalçın" />
 
 <img src="https://img.shields.io/badge/Computer_Vision-BE185D?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
 <img src="https://img.shields.io/badge/Machine_Learning-9333EA?style=for-the-badge&logo=pytorch&logoColor=white" alt="Machine Learning" />
-<img src="https://img.shields.io/badge/Mobile_Development-DB2777?style=for-the-badge&logo=flutter&logoColor=white" alt="Mobile Development" />
+<img src="https://img.shields.io/badge/Flutter-DB2777?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/React-C026D3?style=for-the-badge&logo=react&logoColor=white" alt="React" />
 
 <br/><br/>
 
@@ -16,43 +15,33 @@
 
 <br/>
 
-## About Me
-
-I’m a fourth-year Software Engineering student at Muğla Sıtkı Koçman University.
-
-I build computer-vision and machine-learning projects focused on real-time video processing, object detection, tracking, and privacy-preserving image analysis.
-
-My current interests include practical vision systems, model benchmarking, and deployment-oriented development on Azure Linux. I also develop mobile and web applications using Flutter, Dart, React, and Firebase.
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Real--Time_Vision-F9A8D4?style=flat-square&labelColor=831843&color=BE185D" alt="Real-Time Vision" />
-<img src="https://img.shields.io/badge/Privacy--Aware_AI-E9D5FF?style=flat-square&labelColor=581C87&color=9333EA" alt="Privacy-Aware AI" />
-<img src="https://img.shields.io/badge/Cross--Platform_Apps-FBCFE8?style=flat-square&labelColor=9D174D&color=DB2777" alt="Cross-Platform Apps" />
-
-</div>
-
-<br/>
-
-## Featured Project
-
 <table>
 <tr>
-<td>
+<td width="58%" valign="middle">
 
-### [Privacy Vision AI](https://github.com/ranayalcnn/privacy-vision-ai)
+<h2>About Me</h2>
 
-A KVKK-aware computer-vision platform designed for secure, real-time image and video analysis.
+<p>
+I’m a fourth-year Software Engineering student at Muğla Sıtkı Koçman University.
+</p>
 
-`Face Anonymization` `Segmentation` `Pose Tracking` `Warehouse Vision` `FastAPI`
+<p>
+I build computer-vision and machine-learning projects focused on real-time video processing, object detection, tracking, and privacy-preserving image analysis.
+</p>
 
-* Face anonymization with blur, mosaic, and color-mask modes
-* Person blurring and removal using segmentation
-* Multi-person pose estimation and tracking
-* Forklift, person, and pallet detection
-* Live-camera support and performance benchmarking
+<p>
+My current interests include practical vision systems, model benchmarking, and deployment-oriented development on Azure Linux.
+</p>
+
+<p>
+I also develop mobile and web applications using Flutter, Dart, React, and Firebase.
+</p>
+
+</td>
+
+<td width="42%" align="center" valign="middle">
+
+<img width="330" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Girl coding animation" />
 
 </td>
 </tr>
@@ -60,7 +49,53 @@ A KVKK-aware computer-vision platform designed for secure, real-time image and v
 
 <br/>
 
-## Technologies
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F9A8D4,50:BE185D,100:9333EA&height=2" alt="Divider" />
+
+<br/>
+
+<h2 align="center">Featured Project</h2>
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+<h3>
+<a href="https://github.com/ranayalcnn/privacy-vision-ai">
+Privacy Vision AI
+</a>
+</h3>
+
+<p>
+A KVKK-aware, real-time computer-vision platform designed for secure and privacy-conscious image and video analysis.
+</p>
+
+<p>
+<code>Computer Vision</code>
+<code>OpenCV</code>
+<code>YOLO</code>
+<code>FastAPI</code>
+<code>Real-Time AI</code>
+</p>
+
+<ul>
+<li>Face anonymization with blur, mosaic, and color-mask modes</li>
+<li>Person blurring and removal using segmentation</li>
+<li>Multi-person pose estimation and tracking</li>
+<li>Forklift, person, and pallet detection</li>
+<li>Live-camera support and performance benchmarking</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:9333EA,50:BE185D,100:F9A8D4&height=2" alt="Divider" />
+
+<br/>
+
+<h2 align="center">Technology Stack</h2>
 
 <div align="center">
 
@@ -78,24 +113,29 @@ A KVKK-aware computer-vision platform designed for secure, real-time image and v
 <tr>
 <td width="50%" valign="top">
 
-### Computer Vision
+<h3>Computer Vision</h3>
 
-OpenCV
-YOLO and Ultralytics
-SCRFD and BlazeFace
-MediaPipe
+<p>
+OpenCV<br/>
+YOLO and Ultralytics<br/>
+SCRFD and BlazeFace<br/>
+MediaPipe<br/>
 ByteTrack
+</p>
 
 </td>
+
 <td width="50%" valign="top">
 
-### Machine Learning
+<h3>Machine Learning</h3>
 
-PyTorch
-CNN and LSTM
-Transformers
-Transfer Learning
+<p>
+PyTorch<br/>
+CNN and LSTM<br/>
+Transformers<br/>
+Transfer Learning<br/>
 Time-Series Analysis
+</p>
 
 </td>
 </tr>
@@ -103,23 +143,28 @@ Time-Series Analysis
 <tr>
 <td width="50%" valign="top">
 
-### Development
+<h3>Development</h3>
 
-Python, Java and C
-Dart and JavaScript
-Flutter and React
+<p>
+Python, Java and C<br/>
+Dart and JavaScript<br/>
+Flutter and React<br/>
 Firebase and MySQL
+</p>
 
 </td>
+
 <td width="50%" valign="top">
 
-### Engineering
+<h3>Engineering</h3>
 
-FastAPI
-Azure and Linux
-Git and GitHub
-ONNX Runtime
+<p>
+FastAPI<br/>
+Azure and Linux<br/>
+Git and GitHub<br/>
+ONNX Runtime<br/>
 Model Benchmarking
+</p>
 
 </td>
 </tr>
@@ -127,30 +172,51 @@ Model Benchmarking
 
 <br/>
 
-## Selected Projects
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F9A8D4,50:BE185D,100:9333EA&height=2" alt="Divider" />
+
+<br/>
+
+<h2 align="center">Selected Projects</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [ICU Length of Stay Prediction](https://github.com/ranayalcnn/Prediction-length-of-stay)
+<h3>
+<a href="https://github.com/ranayalcnn/Prediction-length-of-stay">
+ICU Length of Stay Prediction
+</a>
+</h3>
 
+<p>
 Machine-learning and physiological time-series analysis for ICU length-of-stay prediction.
+</p>
 
-<br/>
-
-`Python` `Machine Learning` `Time Series`
+<p>
+<code>Python</code>
+<code>Machine Learning</code>
+<code>Time Series</code>
+</p>
 
 </td>
+
 <td width="50%" valign="top">
 
-### [AI Flower Classification](https://github.com/ranayalcnn/ai-flower-classification)
+<h3>
+<a href="https://github.com/ranayalcnn/ai-flower-classification">
+AI Flower Classification
+</a>
+</h3>
 
+<p>
 Image-classification experiments with custom CNNs, VGG16, and transfer learning.
+</p>
 
-<br/>
-
-`Python` `PyTorch` `CNN`
+<p>
+<code>Python</code>
+<code>PyTorch</code>
+<code>CNN</code>
+</p>
 
 </td>
 </tr>
@@ -158,24 +224,41 @@ Image-classification experiments with custom CNNs, VGG16, and transfer learning.
 <tr>
 <td width="50%" valign="top">
 
-### [SwapShelf](https://github.com/ranayalcnn/swapshelf)
+<h3>
+<a href="https://github.com/ranayalcnn/swapshelf">
+SwapShelf
+</a>
+</h3>
 
-A mobile application for discovering and exchanging books.
+<p>
+A Flutter application for discovering and exchanging books.
+</p>
 
-<br/>
-
-`Flutter` `Dart` `Firebase`
+<p>
+<code>Flutter</code>
+<code>Dart</code>
+<code>Firebase</code>
+</p>
 
 </td>
+
 <td width="50%" valign="top">
 
-### [My Therapy App](https://github.com/ranayalcnn/MyTherapyApp)
+<h3>
+<a href="https://github.com/ranayalcnn/MyTherapyApp">
+My Therapy App
+</a>
+</h3>
 
+<p>
 A Firebase-supported therapy application developed with Flutter and Dart.
+</p>
 
-<br/>
-
-`Flutter` `Dart` `Firebase`
+<p>
+<code>Flutter</code>
+<code>Dart</code>
+<code>Firebase</code>
+</p>
 
 </td>
 </tr>
@@ -183,24 +266,41 @@ A Firebase-supported therapy application developed with Flutter and Dart.
 <tr>
 <td width="50%" valign="top">
 
-### [Shopping Website](https://github.com/ranayalcnn/shopping_website)
+<h3>
+<a href="https://github.com/ranayalcnn/shopping_website">
+Shopping Website
+</a>
+</h3>
 
+<p>
 A responsive shopping website developed using React and JavaScript.
+</p>
 
-<br/>
-
-`React` `JavaScript` `Web`
+<p>
+<code>React</code>
+<code>JavaScript</code>
+<code>Web</code>
+</p>
 
 </td>
+
 <td width="50%" valign="top">
 
-### [Privacy Vision AI](https://github.com/ranayalcnn/privacy-vision-ai)
+<h3>
+<a href="https://github.com/ranayalcnn/privacy-vision-ai">
+Privacy Vision AI
+</a>
+</h3>
 
-Real-time privacy analysis, pose tracking, anonymization, and warehouse vision.
+<p>
+Real-time anonymization, pose tracking, privacy analysis, and warehouse vision.
+</p>
 
-<br/>
-
-`OpenCV` `YOLO` `FastAPI`
+<p>
+<code>OpenCV</code>
+<code>YOLO</code>
+<code>FastAPI</code>
+</p>
 
 </td>
 </tr>
@@ -208,12 +308,16 @@ Real-time privacy analysis, pose tracking, anonymization, and warehouse vision.
 
 <br/>
 
-## Profile
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:9333EA,50:BE185D,100:F9A8D4&height=2" alt="Divider" />
+
+<br/>
+
+<h2 align="center">Connect With Me</h2>
 
 <div align="center">
 
 <a href="https://github.com/ranayalcnn">
-  <img src="https://img.shields.io/badge/GitHub-ranayalcnn-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+<img src="https://img.shields.io/badge/GitHub-ranayalcnn-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
 </a>
 
 <br/><br/>
